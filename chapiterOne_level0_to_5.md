@@ -34,5 +34,5 @@ Now the permission is no more denied.
 
 - Level 5 
 
-The rank is so ironic because this is the easiest level.
+The rank is so ironic because this is othe easiest level.
 I just had to read the README inside the directory to find the 5th solution.
